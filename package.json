@@ -1,0 +1,26 @@
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imukesh2508srijan/playwright-framework.git"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "github"
+  ],
+  "author": "Mukesh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imukesh2508srijan/playwright-framework/issues"
+  },
+  "homepage": "https://github.com/imukesh2508srijan/playwright-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.1.0"
+  }
+}
